@@ -3,13 +3,16 @@ namespace Data.Models
 {
     using Newtonsoft.Json;
 
-    public class DailyData
+    public class OhlcDailyRecord
     {
         [JsonProperty("id")]
         public string Id { get; set; }
 
-        [JsonProperty("ticker")]
+        [JsonProperty("ticker")] // partition key
         public string Ticker {get;set;}
+
+        [JsonProperty("year")]
+        public string Year { get; set; }
 
         
     }

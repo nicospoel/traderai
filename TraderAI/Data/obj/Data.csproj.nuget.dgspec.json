@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/nico/Projects/TraderAI/Data/Data.csproj": {}
+    "/Users/nico/Projects/Trader/traderai/TraderAI/Data/Data.csproj": {}
   },
   "projects": {
-    "/Users/nico/Projects/TraderAI/Data/Data.csproj": {
+    "/Users/nico/Projects/Trader/traderai/TraderAI/Data/Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/nico/Projects/TraderAI/Data/Data.csproj",
+        "projectUniqueName": "/Users/nico/Projects/Trader/traderai/TraderAI/Data/Data.csproj",
         "projectName": "Data",
-        "projectPath": "/Users/nico/Projects/TraderAI/Data/Data.csproj",
+        "projectPath": "/Users/nico/Projects/Trader/traderai/TraderAI/Data/Data.csproj",
         "packagesPath": "/Users/nico/.nuget/packages/",
-        "outputPath": "/Users/nico/Projects/TraderAI/Data/obj/",
+        "outputPath": "/Users/nico/Projects/Trader/traderai/TraderAI/Data/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
